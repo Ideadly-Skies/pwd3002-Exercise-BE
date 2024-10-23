@@ -1,2 +1,2 @@
 # pwd3002-Exercise-BE
-backend exercise by Devan and Me
+backend exercise for module 3
